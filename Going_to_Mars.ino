@@ -1,3 +1,15 @@
+/*
+---------------------------VOYAGER------------------------------------------
+PROJECT TITLE: VOYAGER
+Created by: Rana (Nana)  Zandi
+            Mahsa Karimi
+Date of completion:11-10-2016
+Description: VOYAGER is a 2 player computer game. 
+Player One is in charge of the movement of the spaceship, making sure that it reaches Mars safely. 
+Player Two is in charge of stopping the sapceship to make it to the mars by dropping asteroids on it.
+Spaceship has 4 lives to make it to the Mars. Player Two has 12 attempts to stop player One.
+----------------------------------------------------------------------------------
+*/
 
 // set pin numbers:
 
